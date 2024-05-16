@@ -1,7 +1,6 @@
 import { useState } from "react";
 
 const tasks=[{id:0,desc:"faire ci"},{id:1,desc:"faire ca"},{id:2,desc:"ceci"},{id:3,desc:"cela"}]
-const newTasks=[];
 
 const TodoList=()=>{
     const [value, setValue] = useState("");

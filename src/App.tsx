@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import HelloWord from './component/helloworld';
 import Counter from './component/counter';
